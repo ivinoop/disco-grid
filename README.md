@@ -1,1 +1,1 @@
-# disco-grid
+# Disco Grid
